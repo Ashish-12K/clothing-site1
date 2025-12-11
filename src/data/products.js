@@ -5,7 +5,7 @@ const PRODUCTS = [
     title: "Cream blouse",
     price: 150,
     src: "/assets/prod-1.jpg",
-    images: ["/assets/prod-detail-1.jpg", "/assets/prod-detail-2.jpg"],
+    images: ["/assets/prod-1.jpg", "/assets/prod-detail-2.jpg"],
     description: "Cream blouse. Great place to add more product details."
   },
 
