@@ -33,7 +33,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Nav from "./components/Nav";
 import Hero from "./components/Hero";
 import ProductsGrid from "./components/ProductsGrid";
-import Newsletter from "./components/NewsLetter";
+import Newsletter from "./components/Newsletter";
 import ChatButton from "./components/ChatButton";
 import Footer from "./components/Footer";
 
