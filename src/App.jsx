@@ -36,6 +36,7 @@ import ProductsGrid from "./components/ProductsGrid";
 import Newsletter from "./components/Newsletter";
 import ChatButton from "./components/ChatButton";
 import Footer from "./components/Footer";
+import ScrollToTop from "./components/ScrollToTop";
 
 import ProductDetail from "./pages/ProductDetail";
 
@@ -44,6 +45,7 @@ import "./index.css";
 export default function App() {
   return (
     <BrowserRouter>
+      <ScrollToTop /> 
       <div className="min-h-screen flex flex-col">
         <Nav />
 
